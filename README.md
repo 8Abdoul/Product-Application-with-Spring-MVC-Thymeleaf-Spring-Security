@@ -14,5 +14,5 @@ Cette application est développée avec **Spring Boot**, **Spring MVC**, **Sprin
 # Partie 2 avec la sécurité
 - Ici on a la page d'authentification pour les utilisateurs:
 # <img width="950" alt="image" src="https://github.com/user-attachments/assets/fd26173f-a958-4b0f-ae6e-17fb87fd8dc7" />
-La page des produits que l'utilisateur verra/ 
+La page des produits que l'utilisateur verra:
 # <img width="959" alt="image" src="https://github.com/user-attachments/assets/59096a95-a9a0-4fca-890a-692b3ffad735" />
